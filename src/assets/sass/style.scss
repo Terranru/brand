@@ -28,5 +28,9 @@ body {
 /* @import "../../../node_modules/bootstrap/scss/bootstrap";
  */
 /* Blocks */
+@import "blocks/page";
 @import "blocks/header";
 @import "blocks/nav";
+@import "blocks/content";
+@import "blocks/footer";
+@import "blocks/intro";
